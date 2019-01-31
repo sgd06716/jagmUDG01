@@ -1,0 +1,63 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+h1{
+	color:#777777;
+	font-family: Lobster;
+}
+
+body{
+    padding: 20px;
+    margin: 20px;
+    border:50px;
+
+
+}
+
+h2{
+	color: blue;
+	font-family: tahoma;
+}
+
+ul{
+	padding-left: 600px;
+	text-align: left;
+}
+
+.blue-color{
+	color: blue;
+}
+
+.bg-silver{
+	background-color: #e1e0db;
+	margin: 20px;
+	border: 10px;
+	border-color: #0000;
+	border-width: 2px;
+
+}
+
+.left{
+	text-align: left;
+}
+
+.center{
+	text-align: center;
+}
+
+/* SOCIAL ICONS */
+/* ----------------------------------------- */
+
+
+
+.social ul {
+	list-style: none;
+}
+
+.social ul li {
+	float:left;
+	width:21px;
+	height:24px;
+	margin:0;
+	padding:0;
+	margin-left:6px;
+}
